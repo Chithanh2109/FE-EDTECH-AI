@@ -1,5 +1,6 @@
 # Hướng dẫn cài đặt & chạy dự án
 
+<<<<<<< HEAD
 ## 1. Yêu cầu môi trường
 - **Node.js** phiên bản 18 trở lên
 - **npm** phiên bản 9 trở lên (nên dùng bản mới nhất)
@@ -36,6 +37,8 @@ vercel --prod
 
 ---
 
+=======
+>>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
 # EduMarket AI - Sàn Giáo Dục Thương Mại Điện Tử
 
 Một nền tảng thương mại điện tử giáo dục hiện đại tích hợp AI, lấy cảm hứng từ Shopee, Italki và Wyzant.
@@ -46,7 +49,11 @@ Một nền tảng thương mại điện tử giáo dục hiện đại tích h
 - **Thẻ sản phẩm**: Thiết kế hiện đại với hiệu ứng hover
 - **Giỏ hàng**: Quản lý số lượng và hệ thống mã giảm giá
 - **Yêu thích**: Hệ thống yêu thích với thông báo tuỳ chỉnh
+<<<<<<< HEAD
 - **Tìm kiếm & Lọc**: Tìm kiếm thông minh với **1 bộ lọc giá** - **FULL WIDTH**
+=======
+- **Tìm kiếm & Lọc**: Tìm kiếm thông minh với **1 bộ lọc giá** 
+>>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
 
 ### 🤖 **Tích hợp AI**
 - **Gợi ý thông minh**: 3 loại gợi ý (AI, Xu hướng, Yêu thích)
@@ -114,6 +121,7 @@ education-ecommerce-platform/
 └── utils/                  # Hàm tiện ích
 ```
 
+<<<<<<< HEAD
 ## 🎨 Hệ thống thiết kế
 
 ### 🎨 Bảng màu
@@ -126,6 +134,8 @@ education-ecommerce-platform/
 - **Mobile**: < 768px
 - **Tablet**: 768px - 1024px
 - **Desktop**: > 1024px
+=======
+>>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
 
 ## 🛒 Tính năng nổi bật
 
@@ -170,6 +180,7 @@ const { suggestions, loading, getSuggestions } = useAISuggestions()
 const { cartItems, addToCart, getCartTotal } = useCart()
 ```
 
+<<<<<<< HEAD
 ### 🔧 Dịch vụ
 ```typescript
 // API khoá học
@@ -179,6 +190,8 @@ CourseService.searchCourses(courses, term)
 CourseService.filterCoursesByPrice(courses, filter) // Chỉ 1 bộ lọc giá
 ```
 
+=======
+>>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
 ## 📊 Hiệu năng
 
 ### ⚡ Tối ưu
@@ -193,6 +206,7 @@ CourseService.filterCoursesByPrice(courses, filter) // Chỉ 1 bộ lọc giá
 - **API**: Axios với xử lý lỗi
 - **Mock Data**: Dữ liệu mẫu đầy đủ
 
+<<<<<<< HEAD
 ## 🚀 Triển khai
 
 ### 🌐 Vercel (Khuyến nghị)
@@ -227,13 +241,23 @@ MIT License - Xem file LICENSE để biết chi tiết.
 ### 🎯 **Hoàn thành 100% yêu cầu đề bài:**
 1. ✅ Hiển thị danh sách sản phẩm
 2. ✅ Tìm kiếm và lọc (1 bộ lọc giá) - **FULL WIDTH**
+=======
+## 🎯 **THAY ĐỔI MỚI NHẤT**
+
+### 🎯 **yêu cầu đề bài:**
+1. ✅ Hiển thị danh sách sản phẩm
+2. ✅ Tìm kiếm và lọc (1 bộ lọc giá)
+>>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
 3. ✅ Gợi ý thông minh AI
 4. ✅ Modal chi tiết sản phẩm
 5. ✅ Yêu thích + trang riêng
 6. ✅ Chatbot AI (bonus)
+<<<<<<< HEAD
 
 ### 🎨 **Cải thiện UI/UX:**
 - Layout full width cho search & filter
 - Không còn sidebar phức tạp
 - Tập trung vào lưới khoá học
 - Giao diện sạch sẽ, dễ sử dụng
+=======
+>>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
