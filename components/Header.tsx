@@ -41,12 +41,12 @@ export const Header = ({ onSearch, onCategoryFilter, favoriteCount, cartCount = 
   }
 
   const categories = [
-    { name: "Ngoại ngữ", icon: "🌍", count: 156 },
-    { name: "Lập trình", icon: "💻", count: 89 },
-    { name: "Marketing", icon: "📈", count: 67 },
-    { name: "Thiết kế", icon: "🎨", count: 45 },
-    { name: "Kinh doanh", icon: "💼", count: 34 },
-    { name: "Khoa học dữ liệu", icon: "📊", count: 28 },
+    { name: "Ngoại ngữ", icon: "🌍" },
+    { name: "Lập trình", icon: "💻" },
+    { name: "Marketing", icon: "📈" },
+    { name: "Thiết kế", icon: "🎨" },
+    { name: "Kinh doanh", icon: "💼" },
+    { name: "Khoa học dữ liệu", icon: "📊" },
   ]
 
   const notifications = [
@@ -265,9 +265,6 @@ export const Header = ({ onSearch, onCategoryFilter, favoriteCount, cartCount = 
                       >
                         <span className="mr-2">{category.icon}</span>
                         {category.name}
-                        <Badge variant="secondary" className="ml-auto">
-                          {category.count}
-                        </Badge>
                       </Button>
                     ))}
                   </div>
@@ -308,19 +305,11 @@ export const Header = ({ onSearch, onCategoryFilter, favoriteCount, cartCount = 
               >
                 <span>{category.icon}</span>
                 {category.name}
-                <Badge variant="secondary" className="text-xs">
-                  {category.count}
-                </Badge>
               </button>
             ))}
             <Link href="/favorites" className="text-gray-700 hover:text-orange-600 flex items-center gap-1">
               <Heart className="h-4 w-4" />
               Yêu thích
-              {favoriteCount > 0 && (
-                <Badge variant="secondary" className="text-xs">
-                  {favoriteCount}
-                </Badge>
-              )}
             </Link>
           </nav>
         </div>
