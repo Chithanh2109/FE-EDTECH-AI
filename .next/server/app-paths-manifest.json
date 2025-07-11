@@ -1,3 +1,4 @@
 {
+  "/favorites/page": "app/favorites/page.js",
   "/page": "app/page.js"
 }

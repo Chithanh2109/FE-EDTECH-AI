@@ -50,7 +50,7 @@ Một nền tảng thương mại điện tử giáo dục hiện đại tích h
 - **Giỏ hàng**: Quản lý số lượng và hệ thống mã giảm giá
 - **Yêu thích**: Hệ thống yêu thích với thông báo tuỳ chỉnh
 <<<<<<< HEAD
-- **Tìm kiếm & Lọc**: Tìm kiếm thông minh với **1 bộ lọc giá** - **FULL WIDTH**
+- **Tìm kiếm & Lọc**: Tìm kiếm thông minh với **1 bộ lọc giá**
 =======
 - **Tìm kiếm & Lọc**: Tìm kiếm thông minh với **1 bộ lọc giá** 
 >>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
