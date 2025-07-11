@@ -1,0 +1,10 @@
+node_modules/
+.next/
+dist/
+.env
+*.log
+npm-debug.log
+yarn-error.log
+*.tmp
+*.bak
+.DS_Store 
