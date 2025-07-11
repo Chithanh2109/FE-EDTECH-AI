@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hướng dẫn cài đặt & chạy dự án
 
 <<<<<<< HEAD
@@ -261,3 +262,6 @@ MIT License - Xem file LICENSE để biết chi tiết.
 - Giao diện sạch sẽ, dễ sử dụng
 =======
 >>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
+=======
+# FE-EDTECH-AI
+>>>>>>> 8834e3ab0268cc2fa837b6650dd571452a02fa39
