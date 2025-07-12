@@ -146,20 +146,12 @@ vercel --prod
 
 **Phát triển với ❤️ cho thị trường giáo dục Việt Nam**
 
-## 🎯 **THAY ĐỔI MỚI NHẤT**
 
-### ✅ **Đã thực hiện:**
-1. **Xoá hoàn toàn Lịch sử xem** - Không còn lịch sử xem
-2. **Full Width Layout** - Thanh tìm kiếm và lọc chiếm toàn bộ chiều ngang
-3. **Đơn giản hoá sidebar** - Không còn sidebar phức tạp
-4. **Layout sạch sẽ** - Tập trung vào nội dung chính
-
-### 🎯 **Hoàn thành 100% yêu cầu đề bài:**
+### 🎯 **Hoàn thành yêu cầu đề bài:**
 1. ✅ Hiển thị danh sách sản phẩm
-2. ✅ Tìm kiếm và lọc (1 bộ lọc giá) - **FULL WIDTH**
-=======
+2. ✅ Tìm kiếm và lọc (1 bộ lọc giá)
+ 
 ## 🎯 **THAY ĐỔI MỚI NHẤT**
-
 ### 🎯 **yêu cầu đề bài:**
 1. ✅ Hiển thị danh sách sản phẩm
 2. ✅ Tìm kiếm và lọc (1 bộ lọc giá)
@@ -167,3 +159,4 @@ vercel --prod
 4. ✅ Modal chi tiết sản phẩm
 5. ✅ Yêu thích + trang riêng
 6. ✅ Chatbot AI (bonus)
+̃7. ✅trang giỏ hàng
