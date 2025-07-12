@@ -5,10 +5,14 @@ import type { Config } from "tailwindcss";
 const config: Config = {
     darkMode: ["class"],
     content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    "*.{js,ts,jsx,tsx,mdx}"
+    "./src/app/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}",
+    "./src/hooks/**/*.{js,ts,jsx,tsx}",
+    "./src/services/**/*.{js,ts,jsx,tsx}",
+    "./src/constants/**/*.{js,ts,jsx,tsx}",
+    "./src/utils/**/*.{js,ts,jsx,tsx}",
+    "./src/types/**/*.{js,ts,jsx,tsx}",
+    "./src/styles/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
   	extend: {
