@@ -113,9 +113,7 @@ const { suggestions, loading, getSuggestions } = useAISuggestions()
 
 // Giỏ hàng
 const { cartItems, addToCart, getCartTotal } = useCart()
-```
 
-<<<<<<< HEAD
 ### 🔧 Dịch vụ
 ```typescript
 // API khoá học
@@ -123,10 +121,7 @@ CourseService.getAllCourses()
 CourseService.getAISuggestions(userId, behavior)
 CourseService.searchCourses(courses, term)
 CourseService.filterCoursesByPrice(courses, filter) // Chỉ 1 bộ lọc giá
-```
 
-=======
->>>>>>> f258ba564620a7962f46856bb10ba12bb494bb2f
 ## 📊 Hiệu năng
 
 ### ⚡ Tối ưu
